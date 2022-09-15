@@ -37,7 +37,7 @@ Q: https://leetcode.com/problems/add-two-numbers/
         return (new ListNode(l3.val%10,new ListNode(1,null)));
     }
     // if(r==0) {
-    // dd aparameter r = 0
+    // add a parameter r = 0
     // remove carry handlers
     //     return manageCarry(l3);
     // }
